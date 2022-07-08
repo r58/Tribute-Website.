@@ -1,0 +1,41 @@
+#title{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 10px;
+    width: 90%;
+}
+
+#img {
+    border-radius: 100px;
+    width: 250px;
+    height: 600px;
+    
+  }
+
+#img2 {
+    border-radius: 80px;;
+    width: 1050px;
+    height: 550px;
+  }
+
+  .text{
+    font-size: 1.5rem;
+    line-height: 1.5;
+    letter-spacing: -.05rem;
+}
+
+  body{
+    width: 70%;
+    margin: 20px auto;
+    background-color: rgba(247, 241, 222, 0.986);
+    padding: 10px 10px 00;
+}
+
+#img-div {
+    text-align: center;
+}
+
+.container{
+  background-color: white;
+}
